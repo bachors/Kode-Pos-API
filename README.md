@@ -31,22 +31,22 @@ https://kodepos-2d475.firebaseio.com/list_kotakab/p9.json?print=pretty
 }</pre>
 
 <h1>List Kecamatan, Kelurahan & Kodepos</h1>
-https://kodepos-2d475.firebaseio.com/kota_kab/k1.json?print=pretty
+https://kodepos-2d475.firebaseio.com/kota_kab/k69.json?print=pretty
 <pre>[
 	{
-		"kecamatan" : "Pekutatan",
-		"kelurahan" : "Pulukan",
-		"kodepos" : "82262"
+		"kecamatan" : "Cibiuk",
+		"kelurahan" : "Majasari",
+		"kodepos" : "44193"
 	},
 	{
-		"kecamatan" : "Pekutatan",
-		"kelurahan" : "Pekutatan",
-		"kodepos" : "82262"
+		"kecamatan" : "Cibiuk",
+		"kelurahan" : "Cibiuk Kidul",
+		"kodepos" : "44193"
 	},
 	{
-		"kecamatan" : "Pekutatan",
-		"kelurahan" : "Pengeragoan (Pengragoan)",
-		"kodepos" : "82262"
+		"kecamatan" : "Cibiuk",
+		"kelurahan" : "Cipareuan",
+		"kodepos" : "44193"
 	},
 	...
 ]</pre>
