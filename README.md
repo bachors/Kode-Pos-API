@@ -5,7 +5,7 @@ Firebase.
 <a href="https://kodepos-2d475.firebaseio.com/">https://kodepos-2d475.firebaseio.com/</a>
 
 # List Propinsi
-<a href="https://kodepos-2d475.firebaseio.com/list_propinsi.json?print=pretty">https://kodepos-2d475.firebaseio.com/list_propinsi.json?print=pretty</a>
+https://kodepos-2d475.firebaseio.com/list_propinsi.json?print=pretty
 <pre>{
 	"p1" : "Bali",
 	"p10" : "Jawa Tengah",
@@ -19,7 +19,7 @@ Firebase.
 }</pre>
 
 # List Kota/Kabupaten
-<a href="https://kodepos-2d475.firebaseio.com/list_kotakab/p9.json?print=pretty">https://kodepos-2d475.firebaseio.com/list_kotakab/{KEY_PROPINSI}.json?print=pretty</a>
+https://kodepos-2d475.firebaseio.com/list_kotakab/p9.json?print=pretty
 <pre>{
 	"k60" : "Tasikmalaya",
 	"k61" : "Pangandaran",
@@ -31,7 +31,7 @@ Firebase.
 }</pre>
 
 <h1>List Kecamatan, Kelurahan & Kodepos</h1>
-<a href="https://kodepos-2d475.firebaseio.com/kota_kab/k1.json?print=pretty">https://kodepos-2d475.firebaseio.com/kota_kab/{KEY_KOTA}.json?print=pretty</a>
+https://kodepos-2d475.firebaseio.com/kota_kab/k1.json?print=pretty
 <pre>[
 	{
 		"kecamatan" : "Pekutatan",
